@@ -294,4 +294,4 @@ defaults:
       related: true
       
       
-remote_theme : mmistake/minimal-mistakes
+remote_theme : mmistakes/minimal-mistakes
